@@ -12,13 +12,13 @@
       ]
     },
     "gestorcon": {
-      "version": "1.2.0",
+      "version": "1.2.1",
       "obligatoria": false,
       "url": "https://github.com/icontableperu-code/gestorcon-dist/releases/latest/download/Gestorcon_Setup.exe",
       "sha256": "",
       "fecha": "2026-07-14",
       "notas": [
-        "Las actualizaciones ya no dependen del sitio web (mas confiables)."
+        "Mejoras de estabilidad y correcciones."
       ]
     },
     "appsirecpe": {
