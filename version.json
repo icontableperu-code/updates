@@ -12,13 +12,13 @@
       ]
     },
     "gestorcon": {
-      "version": "1.2.3",
+      "version": "1.2.4",
       "obligatoria": false,
       "url": "https://github.com/icontableperu-code/gestorcon-dist/releases/latest/download/Gestorcon_Setup.exe",
       "sha256": "",
-      "fecha": "2026-07-15",
+      "fecha": "2026-07-16",
       "notas": [
-        "Mejoras generales"
+        "mejoras en el rendimiento y diseño de hojas rvie y rce "
       ]
     },
     "appsirecpe": {
