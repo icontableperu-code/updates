@@ -2,13 +2,13 @@
   "_comentario": "Manifiesto de versiones que leen las apps al arrancar para auto-actualizarse. Al publicar una versión nueva: 1) sube el .exe como GitHub Release en el repo *-dist de esa app, 2) sube/bumpea solo 'version' y 'notas' aquí. La 'url' usa el patron releases/latest/download y NO cambia entre versiones (siempre apunta al ultimo release). Crea los repos excelplan-dist y appsirecpe-dist (gestorcon-dist ya existe) y marca cada release como 'Latest'.",
   "apps": {
     "excelplan": {
-      "version": "1.0.8",
+      "version": "1.0.9",
       "obligatoria": false,
       "url": "https://github.com/icontableperu-code/excelplan-dist/releases/latest/download/Excelplan_Setup.exe",
       "sha256": "",
-      "fecha": "2026-07-14",
+      "fecha": "2026-07-17",
       "notas": [
-        "Las actualizaciones ahora se detectan al instante."
+        "Nuevas funciones "
       ]
     },
     "gestorcon": {
