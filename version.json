@@ -22,13 +22,13 @@
       ]
     },
     "appsirecpe": {
-      "version": "1.1.6",
+      "version": "1.1.7",
       "obligatoria": false,
       "url": "https://github.com/icontableperu-code/appsirecpe-dist/releases/latest/download/AppSireCPE_Setup.exe",
       "sha256": "",
       "fecha": "2026-07-17",
       "notas": [
-        "Nuevos diseño en el rce y rvie , mejoras en la estabilidad "
+        "Corrección de errores"
       ]
     }
   }
