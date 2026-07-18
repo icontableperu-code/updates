@@ -40,6 +40,18 @@
       "notas": [
         "actu"
       ]
+    },
+    "lector": {
+      "version": "1.0.11",
+      "obligatoria": false,
+      "url": "https://github.com/icontableperu-code/lector-dist/releases/latest/download/Lector_Setup.exe",
+      "sha256": "",
+      "fecha": "2026-07-18",
+      "notas": [
+        "Ahora la app se actualiza sola por internet",
+        "Nuevo: Buscar actualizaciones (menu Ayuda y ventana Acerca de)",
+        "Mayor estabilidad ante errores inesperados"
+      ]
     }
   }
 }
