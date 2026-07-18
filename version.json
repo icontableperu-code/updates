@@ -32,15 +32,13 @@
       ]
     },
     "facicpe": {
-      "version": "1.0.1",
+      "version": "1.0.2",
       "obligatoria": false,
       "url": "https://github.com/icontableperu-code/facicpe-dist/releases/latest/download/FaciCPE_Setup.exe",
       "sha256": "",
       "fecha": "2026-07-18",
       "notas": [
-        "Nuevo dashboard con estado de SUNAT y grafico de ventas",
-        "Envio por WhatsApp e iconos en la lista de comprobantes",
-        "Alta rapida de clientes y productos"
+        "actu"
       ]
     }
   }
