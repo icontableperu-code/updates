@@ -22,13 +22,13 @@
       ]
     },
     "appsirecpe": {
-      "version": "1.1.7",
+      "version": "1.1.8",
       "obligatoria": false,
       "url": "https://github.com/icontableperu-code/appsirecpe-dist/releases/latest/download/AppSireCPE_Setup.exe",
       "sha256": "",
-      "fecha": "2026-07-17",
+      "fecha": "2026-07-18",
       "notas": [
-        "Corrección de errores"
+        "Mejoras de estabilidad y correcciones."
       ]
     },
     "facicpe": {
