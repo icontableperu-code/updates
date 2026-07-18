@@ -38,7 +38,9 @@
       "sha256": "",
       "fecha": "2026-07-18",
       "notas": [
-        "Nuevo dashboard con estado de SUNAT y grafico de ventas,Envio por WhatsApp e iconos en la lista de comprobantes,Alta rapida de clientes y productos"
+        "Nuevo dashboard con estado de SUNAT y grafico de ventas",
+        "Envio por WhatsApp e iconos en la lista de comprobantes",
+        "Alta rapida de clientes y productos"
       ]
     }
   }
